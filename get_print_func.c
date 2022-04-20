@@ -51,7 +51,6 @@ int (*get_print_func(const char *s, int index))(va_list, char *, unsigned int)
 		{
 			j = 0;
 			i++;
-		
 	index = first_index;
 		}
 	}
